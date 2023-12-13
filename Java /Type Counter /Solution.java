@@ -66,4 +66,4 @@ public class Solution {
             System.err.println("Error reading input: " + e.getMessage());
         } catch (Exception e) {
             System.err.println("An unexpected error occurred: " + e.getMessage());
-            
+}            
