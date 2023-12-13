@@ -1,5 +1,3 @@
-Problem 1:
-
 import java.util.Scanner;
 
 public class Solution {
